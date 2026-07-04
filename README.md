@@ -1,14 +1,14 @@
-![無限進步-无限进步](https://ywtypic.wuxit.cn/pic/2025/11/08/690f37fa5315f.gif)
-# 👋 你好，我是筱序二十
+![無限進步-无限进步](https://s3.qixz.cn/ywty/2026/04/18/69e37c5a29d9d.gif)
+# 👋 你好，我是 池中物
 
 欢迎来到我的GitHub主页！我是一名专注于实用工具开发与技术探索的开发者，热衷于通过代码解决实际问题。这里收录了我开发的各类工具、脚本及学习项目，涵盖Python自动化、数据处理等领域，欢迎交流探讨～
 
 
 ## 📊 我的GitHub数据
-![贡献热力图](https://github-readme-activity-graph.vercel.app/graph?username=scfcn&theme=react-dark&hide_border=true&area=true)
-![GitHub 统计概览](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scfcn&theme=tokyonight)  
-![常用语言分布](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=scfcn&theme=tokyonight)
-![代码提交统计](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=scfcn&theme=tokyonight)
+![贡献热力图](https://github-readme-activity-graph.vercel.app/graph?username=chizw&theme=react-dark&hide_border=true&area=true)
+![GitHub 统计概览](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chizw&theme=tokyonight)  
+![常用语言分布](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chizw&theme=tokyonight)
+![代码提交统计](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chizw&theme=tokyonight)
 
 
 ## 💻 技术栈
@@ -21,10 +21,10 @@
 
 
 ## 🌟 特色项目
-- [blog-v3](https://github.com/scfcn/blog-v3)  
+- [blog-v3](https://github.com/chizw/blog-v3)  
   项目简介：个人第三代博客，fork自Clarity，增加自定义组件
 
-- [Rainyun-Qiandao](https://github.com/scfcn/Rainyun-Qiandao)  
+- [Rainyun-Qiandao](https://github.com/chizw/Rainyun-Qiandao)  
   项目简介：一个基于 Selenium 和 ddddocr 的雨云自动签到工具，通过模拟浏览器操作和验证码识别，实现雨云账户的自动每日签到以赚取积分。
 
 
